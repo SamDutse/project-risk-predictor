@@ -23,3 +23,6 @@ This project predicts whether a local government project is at risk of being **a
 ```bash
 git clone https://github.com/SamDutse/project-risk-predictor.git
 cd project-risk-predictor
+```
+
+# view app demo on: https://wiapptwe63hszwdcgrkyo4q.streamlit.app/
