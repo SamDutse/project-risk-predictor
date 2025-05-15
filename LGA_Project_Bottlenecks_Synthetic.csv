@@ -1,0 +1,501 @@
+LGA,Region,Sector,Contractor_ID,Contractor_Completed,Contractor_Abandoned,Contractor_Score,Amount,Duration_Days,Project_Status
+Jos North,South West,Health,C009,4,1,0.6,46885.1,171,On Time
+Nsukka,North East,Education,C004,4,0,0.8,22051.6,148,Delayed
+Ilorin,South South,Health,C014,5,1,0.67,17538.23,95,Delayed
+Bwari,North Central,Health,C007,4,1,0.6,21748.68,162,Delayed
+Nsukka,South South,Electricity,C001,9,0,0.9,13659.25,245,Abandoned
+Ilorin,South West,Education,C018,5,1,0.67,16340.39,85,Abandoned
+Owerri,South East,Education,C019,4,1,0.6,49773.66,233,On Time
+Yenagoa,North East,Health,C014,6,1,0.71,23678.75,168,On Time
+Eket,North East,Roads,C007,3,0,0.75,94330.44,200,Abandoned
+Eket,North Central,Health,C013,6,0,0.86,12266.53,242,Delayed
+Jos North,North West,Roads,C020,7,0,0.88,62851.92,199,On Time
+Yenagoa,South West,Health,C015,1,0,0.5,40743.01,195,Delayed
+Ilorin,South East,Health,C003,8,0,0.89,26052.14,131,On Time
+Ilorin,South West,Roads,C020,3,0,0.75,35575.01,154,Delayed
+Eket,North East,Electricity,C003,6,1,0.71,42008.61,179,On Time
+Bwari,North West,Education,C003,3,0,0.75,16553.95,146,Delayed
+Nsukka,South East,Health,C009,5,2,0.5,15742.87,208,On Time
+Abeokuta,North East,Roads,C012,4,1,0.6,58525.47,106,On Time
+Eket,South West,Education,C009,7,2,0.62,12085.07,251,On Time
+Jos North,South West,Electricity,C006,5,1,0.67,37426.65,106,On Time
+Ilorin,North East,Education,C015,3,0,0.75,44573.54,236,On Time
+Owerri,South West,Roads,C018,7,0,0.88,61256.59,165,On Time
+Nsukka,North Central,Roads,C008,7,1,0.75,30359.43,224,On Time
+Bwari,South East,Roads,C009,4,1,0.6,51472.75,285,On Time
+Jos North,South South,Education,C011,10,2,0.73,70678.11,243,On Time
+Nsukka,South East,Water,C015,2,0,0.67,14778.96,89,On Time
+Lokoja,North East,Roads,C008,1,0,0.5,53537.49,83,On Time
+Ilorin,North West,Electricity,C019,4,0,0.8,34639.55,115,On Time
+Owerri,South East,Electricity,C012,6,0,0.86,86004.95,229,On Time
+Nsukka,South South,Education,C016,3,0,0.75,47157.41,231,On Time
+Jos North,North Central,Health,C005,7,0,0.88,13699.8,235,Delayed
+Lokoja,South South,Water,C003,4,0,0.8,45180.86,226,Delayed
+Owerri,South South,Water,C015,3,1,0.5,97528.76,259,On Time
+Ilorin,South South,Roads,C001,10,0,0.91,28739.71,183,Delayed
+Jos North,North West,Electricity,C011,3,1,0.5,40313.82,142,Delayed
+Jos North,South East,Roads,C006,9,0,0.9,42517.29,138,On Time
+Abeokuta,South West,Health,C009,8,2,0.67,48568.16,167,On Time
+Ilorin,South South,Education,C004,9,2,0.7,27392.57,143,Delayed
+Yenagoa,South South,Electricity,C007,5,1,0.67,20299.52,179,On Time
+Lokoja,North East,Roads,C018,3,2,0.25,24451.4,192,Delayed
+Ilorin,South South,Health,C011,7,2,0.62,74295.33,151,Delayed
+Abeokuta,North Central,Health,C012,2,0,0.67,26799.23,179,On Time
+Yenagoa,North Central,Education,C008,6,2,0.57,47633.8,271,Abandoned
+Sokoto North,North Central,Health,C016,7,1,0.75,34770.07,239,On Time
+Jos North,North East,Electricity,C005,4,0,0.8,30641.27,238,Delayed
+Abeokuta,North East,Electricity,C009,9,2,0.7,42065.55,292,On Time
+Ilorin,South East,Electricity,C007,8,0,0.89,75611.48,151,Abandoned
+Ilorin,South West,Education,C010,8,2,0.67,39708.79,198,On Time
+Owerri,South East,Roads,C017,6,1,0.71,54496.17,112,On Time
+Abeokuta,North East,Health,C008,2,0,0.67,67938.7,189,On Time
+Jos North,North Central,Roads,C019,1,0,0.5,16853.42,221,On Time
+Ilorin,South South,Education,C008,8,2,0.67,14464.81,57,On Time
+Bwari,South West,Health,C002,5,0,0.83,27194.93,80,Delayed
+Nsukka,North Central,Health,C011,5,0,0.83,15319.46,209,Delayed
+Jos North,North East,Electricity,C009,2,0,0.67,18711.73,146,On Time
+Abeokuta,South South,Education,C005,3,1,0.5,131014.45,182,On Time
+Sokoto North,South East,Electricity,C008,5,1,0.67,30611.34,166,On Time
+Abeokuta,North East,Water,C004,2,1,0.33,104739.61,165,On Time
+Jos North,North West,Water,C014,4,0,0.8,16766.99,184,Delayed
+Owerri,South West,Water,C002,6,1,0.71,21060.49,115,On Time
+Jos North,South East,Health,C011,4,0,0.8,24328.46,274,On Time
+Jos North,North East,Education,C007,2,0,0.67,12441.07,213,Delayed
+Ilorin,North East,Water,C014,5,0,0.83,18541.13,147,On Time
+Lokoja,South East,Roads,C008,6,1,0.71,39100.18,196,Delayed
+Jos North,South South,Water,C004,4,0,0.8,19408.65,71,Delayed
+Bwari,North Central,Electricity,C003,2,0,0.67,232442.81,83,On Time
+Nsukka,South East,Education,C016,6,2,0.57,66980.73,145,On Time
+Abeokuta,South East,Education,C002,3,1,0.5,37293.18,185,Delayed
+Lokoja,North Central,Water,C013,5,1,0.67,21842.09,215,On Time
+Yenagoa,North West,Water,C014,5,1,0.67,27796.61,258,Delayed
+Ilorin,North East,Water,C007,5,1,0.67,61848.48,185,On Time
+Yenagoa,North Central,Education,C019,5,0,0.83,65114.38,184,On Time
+Ilorin,South West,Health,C011,4,1,0.6,25964.53,229,Delayed
+Bwari,South South,Health,C016,6,2,0.57,56254.84,124,On Time
+Ilorin,North East,Electricity,C002,5,1,0.67,17750.43,40,On Time
+Ilorin,North East,Health,C003,9,0,0.9,115297.36,215,On Time
+Sokoto North,South West,Health,C008,3,0,0.75,195798.05,211,Delayed
+Owerri,South South,Health,C008,6,0,0.86,60133.83,40,Delayed
+Sokoto North,North Central,Electricity,C020,4,1,0.6,5013.73,176,Delayed
+Jos North,South West,Water,C019,5,1,0.67,18927.63,170,Delayed
+Sokoto North,North West,Electricity,C009,4,0,0.8,200126.32,113,On Time
+Nsukka,North East,Roads,C009,6,0,0.86,26052.63,157,On Time
+Owerri,South West,Education,C010,3,0,0.75,31110.49,181,On Time
+Abeokuta,North Central,Roads,C001,2,0,0.67,47008.77,116,On Time
+Abeokuta,South South,Electricity,C004,4,0,0.8,25721.41,249,Delayed
+Jos North,North East,Electricity,C017,6,1,0.71,10289.82,285,Delayed
+Yenagoa,North West,Education,C003,8,0,0.89,7711.01,281,Delayed
+Nsukka,North West,Roads,C006,5,0,0.83,149705.15,220,Abandoned
+Abeokuta,South West,Electricity,C010,4,0,0.8,10583.38,213,On Time
+Sokoto North,North Central,Electricity,C018,6,0,0.86,39615.51,238,Delayed
+Yenagoa,North East,Health,C009,4,1,0.6,25955.69,191,Delayed
+Jos North,South West,Health,C018,4,0,0.8,17037.57,337,On Time
+Lokoja,North West,Roads,C020,4,1,0.6,32991.98,140,On Time
+Nsukka,North East,Roads,C009,6,0,0.86,21351.52,288,On Time
+Ilorin,North West,Water,C002,9,3,0.6,13150.46,166,On Time
+Jos North,North West,Water,C002,3,1,0.5,58729.33,188,On Time
+Bwari,North East,Roads,C009,4,0,0.8,72991.91,175,Delayed
+Lokoja,South South,Water,C014,3,0,0.75,38686.61,151,On Time
+Ilorin,North Central,Health,C003,3,1,0.5,68189.54,90,Abandoned
+Lokoja,North Central,Electricity,C012,11,1,0.83,35078.86,243,On Time
+Sokoto North,North East,Electricity,C014,4,0,0.8,24676.94,163,On Time
+Lokoja,North West,Health,C012,5,1,0.67,8554.22,107,On Time
+Bwari,North East,Roads,C008,7,0,0.88,166801.74,140,Delayed
+Jos North,South South,Roads,C014,6,0,0.86,48850.46,142,On Time
+Sokoto North,North East,Education,C006,6,1,0.71,18492.24,208,Delayed
+Lokoja,North Central,Water,C006,4,1,0.6,48445.98,245,On Time
+Eket,South West,Water,C008,8,2,0.67,23050.15,193,On Time
+Yenagoa,South West,Education,C004,10,2,0.73,63630.8,205,Delayed
+Owerri,South East,Health,C008,4,0,0.8,77057.84,130,On Time
+Nsukka,North West,Water,C010,5,0,0.83,33691.63,185,On Time
+Nsukka,North Central,Education,C007,4,0,0.8,77191.35,93,On Time
+Owerri,North West,Roads,C003,6,0,0.86,36345.8,137,On Time
+Yenagoa,South West,Roads,C017,7,1,0.75,30213.02,57,On Time
+Owerri,North West,Electricity,C001,5,1,0.67,72624.13,258,Delayed
+Jos North,North East,Roads,C019,2,0,0.67,62086.09,167,Delayed
+Yenagoa,North Central,Health,C020,8,0,0.89,31264.84,247,On Time
+Owerri,South West,Roads,C011,3,0,0.75,79395.46,209,Delayed
+Owerri,South South,Electricity,C004,5,0,0.83,19715.74,179,On Time
+Owerri,North East,Electricity,C009,4,0,0.8,186904.09,150,Delayed
+Bwari,North Central,Water,C017,3,0,0.75,33032.05,110,On Time
+Ilorin,North West,Education,C014,1,0,0.5,27853.98,139,Delayed
+Jos North,South South,Roads,C011,3,0,0.75,116557.02,218,On Time
+Jos North,South South,Roads,C010,8,2,0.67,34526.99,141,On Time
+Owerri,South East,Roads,C010,2,0,0.67,43857.27,310,Delayed
+Ilorin,North East,Education,C014,7,0,0.88,26463.25,205,On Time
+Owerri,South South,Education,C019,3,0,0.75,34008.23,187,On Time
+Yenagoa,South South,Water,C001,5,1,0.67,43792.22,218,On Time
+Yenagoa,North East,Roads,C014,7,1,0.75,107635.38,152,On Time
+Sokoto North,South West,Electricity,C011,5,1,0.67,21372.52,203,On Time
+Abeokuta,South East,Water,C007,5,2,0.5,48449.41,157,Delayed
+Ilorin,South West,Water,C006,5,0,0.83,13379.49,249,On Time
+Jos North,South South,Roads,C020,5,0,0.83,66512.29,150,On Time
+Eket,North East,Health,C010,6,0,0.86,26439.4,304,On Time
+Nsukka,North East,Education,C001,3,0,0.75,30215.61,117,On Time
+Bwari,South East,Education,C020,6,0,0.86,36508.31,207,On Time
+Jos North,South East,Water,C019,5,1,0.67,50853.13,116,On Time
+Nsukka,South East,Water,C013,4,1,0.6,36792.47,201,On Time
+Nsukka,South West,Education,C001,6,2,0.57,15585.45,220,On Time
+Jos North,North East,Water,C006,10,0,0.91,41469.16,205,On Time
+Ilorin,North Central,Water,C018,5,0,0.83,13536.42,81,On Time
+Nsukka,South East,Health,C005,5,0,0.83,71006.07,272,Delayed
+Abeokuta,South South,Electricity,C020,6,0,0.86,91082.83,70,Abandoned
+Eket,South South,Water,C017,4,0,0.8,56331.28,196,On Time
+Owerri,South East,Electricity,C006,6,0,0.86,18004.09,120,Delayed
+Abeokuta,North West,Water,C008,4,0,0.8,48668.72,121,On Time
+Yenagoa,South East,Electricity,C008,6,0,0.86,88075.14,175,Delayed
+Yenagoa,North Central,Water,C010,7,1,0.75,12405.95,284,Delayed
+Nsukka,North West,Roads,C011,5,0,0.83,18453.56,308,On Time
+Ilorin,North East,Health,C005,5,1,0.67,65021.33,312,Delayed
+Nsukka,South West,Water,C005,4,0,0.8,107167.24,146,Delayed
+Nsukka,South East,Health,C014,3,1,0.5,15324.53,137,Delayed
+Eket,South East,Electricity,C014,8,1,0.78,68152.24,186,Abandoned
+Bwari,South East,Education,C013,4,0,0.8,48951.44,184,On Time
+Sokoto North,South South,Health,C013,7,1,0.75,83080.22,107,On Time
+Abeokuta,North West,Health,C010,5,0,0.83,19600.88,193,Delayed
+Owerri,South South,Water,C018,8,3,0.56,20226.6,165,On Time
+Sokoto North,South East,Education,C008,6,0,0.86,35067.7,174,Delayed
+Yenagoa,South East,Water,C001,9,1,0.8,16028.96,258,Delayed
+Owerri,South West,Roads,C013,1,0,0.5,25528.64,120,On Time
+Lokoja,North East,Water,C020,4,0,0.8,47248.95,183,Delayed
+Ilorin,South East,Health,C019,3,0,0.75,96691.51,253,On Time
+Sokoto North,North Central,Health,C014,3,0,0.75,36747.39,159,Delayed
+Lokoja,North East,Water,C002,8,2,0.67,25236.12,190,On Time
+Yenagoa,North West,Water,C007,4,0,0.8,23220.24,109,On Time
+Abeokuta,North West,Roads,C013,2,0,0.67,22592.75,203,On Time
+Yenagoa,North West,Water,C003,5,0,0.83,16512.63,178,On Time
+Abeokuta,South West,Health,C018,9,2,0.7,6606.88,153,Abandoned
+Bwari,North East,Roads,C003,6,0,0.86,31129.63,235,On Time
+Bwari,North East,Health,C007,1,0,0.5,135554.13,188,Abandoned
+Bwari,North East,Electricity,C008,4,0,0.8,12897.22,121,On Time
+Lokoja,South West,Water,C004,1,1,0.0,19159.55,232,Delayed
+Sokoto North,South East,Education,C009,3,1,0.5,50652.66,258,On Time
+Eket,South South,Education,C020,9,0,0.9,22013.36,182,On Time
+Jos North,North West,Education,C004,5,0,0.83,21838.11,103,On Time
+Sokoto North,North West,Health,C019,11,1,0.83,12956.7,234,On Time
+Owerri,South West,Water,C007,8,0,0.89,30998.53,174,On Time
+Jos North,South West,Electricity,C008,4,0,0.8,56111.41,202,On Time
+Jos North,South West,Roads,C020,5,1,0.67,81580.29,154,On Time
+Jos North,North Central,Electricity,C012,5,1,0.67,12002.33,113,On Time
+Ilorin,South West,Water,C012,2,0,0.67,10082.54,267,Delayed
+Jos North,South West,Electricity,C011,5,1,0.67,22504.14,333,On Time
+Bwari,South East,Water,C004,2,0,0.67,57102.78,146,On Time
+Owerri,South West,Roads,C015,4,0,0.8,64294.76,220,Delayed
+Lokoja,North East,Water,C017,7,1,0.75,95527.56,217,Delayed
+Yenagoa,South South,Electricity,C016,3,0,0.75,123867.25,272,On Time
+Abeokuta,South West,Water,C019,6,1,0.71,36547.78,73,On Time
+Yenagoa,North East,Roads,C003,6,1,0.71,15210.88,176,Delayed
+Yenagoa,North East,Water,C015,2,0,0.67,56613.99,253,Delayed
+Sokoto North,South West,Electricity,C013,5,0,0.83,42458.02,166,Abandoned
+Eket,South East,Health,C011,3,0,0.75,35557.5,112,On Time
+Lokoja,North East,Water,C012,2,0,0.67,54146.03,185,On Time
+Yenagoa,North West,Roads,C020,6,0,0.86,57742.03,104,Delayed
+Yenagoa,North Central,Electricity,C017,5,1,0.67,51576.87,153,On Time
+Nsukka,North East,Health,C014,7,1,0.75,31253.97,130,Abandoned
+Abeokuta,North East,Electricity,C016,3,0,0.75,88063.53,183,Delayed
+Abeokuta,North Central,Water,C003,8,0,0.89,74690.56,133,Delayed
+Yenagoa,South East,Education,C008,5,1,0.67,61447.11,175,On Time
+Yenagoa,North West,Electricity,C016,8,1,0.78,35848.05,93,On Time
+Ilorin,North West,Electricity,C014,5,1,0.67,59362.64,154,On Time
+Ilorin,North West,Roads,C015,8,1,0.78,28798.69,110,Delayed
+Yenagoa,North West,Roads,C008,1,0,0.5,29049.43,239,On Time
+Jos North,North West,Education,C004,5,1,0.67,49686.99,199,Delayed
+Ilorin,North East,Education,C007,5,1,0.67,83261.02,172,On Time
+Abeokuta,South West,Roads,C019,5,0,0.83,28015.21,157,On Time
+Ilorin,North West,Electricity,C004,5,0,0.83,43930.6,178,On Time
+Nsukka,North East,Roads,C012,5,0,0.83,49933.18,151,Delayed
+Lokoja,North Central,Roads,C018,8,1,0.78,47452.8,190,On Time
+Lokoja,North Central,Roads,C002,4,1,0.6,36546.3,246,On Time
+Ilorin,South West,Roads,C005,4,2,0.4,54413.72,153,On Time
+Abeokuta,North Central,Health,C019,5,0,0.83,61686.43,148,Abandoned
+Yenagoa,South East,Water,C015,4,1,0.6,8849.49,162,On Time
+Eket,North Central,Education,C009,3,1,0.5,64406.55,282,Abandoned
+Abeokuta,North Central,Health,C013,3,0,0.75,34779.79,249,On Time
+Abeokuta,South South,Health,C002,8,1,0.78,65538.54,210,On Time
+Lokoja,South South,Education,C010,4,0,0.8,77887.1,284,On Time
+Jos North,North Central,Education,C018,4,0,0.8,36098.21,213,On Time
+Owerri,South South,Electricity,C020,4,0,0.8,28385.08,55,Abandoned
+Nsukka,South East,Electricity,C015,6,1,0.71,26670.38,134,Delayed
+Abeokuta,South South,Roads,C014,6,0,0.86,35604.82,50,On Time
+Yenagoa,South South,Electricity,C002,5,1,0.67,39924.44,210,Abandoned
+Sokoto North,North East,Health,C007,4,0,0.8,102365.98,233,On Time
+Yenagoa,North East,Health,C008,4,0,0.8,47386.95,169,On Time
+Lokoja,North Central,Electricity,C006,3,0,0.75,64534.22,197,Delayed
+Bwari,South East,Water,C020,3,0,0.75,32354.04,167,On Time
+Abeokuta,North Central,Roads,C008,8,1,0.78,80318.14,128,On Time
+Yenagoa,South West,Roads,C015,6,0,0.86,9267.23,138,Delayed
+Jos North,North West,Education,C019,1,0,0.5,26692.32,226,On Time
+Nsukka,North Central,Water,C018,5,2,0.5,22342.31,167,On Time
+Nsukka,North West,Education,C005,3,0,0.75,18789.11,205,Abandoned
+Jos North,North East,Health,C010,1,0,0.5,31129.19,157,On Time
+Sokoto North,North West,Electricity,C015,7,2,0.62,49040.36,162,On Time
+Jos North,South West,Water,C010,7,0,0.88,11027.44,112,Delayed
+Owerri,South South,Roads,C018,5,0,0.83,29438.38,151,On Time
+Abeokuta,North Central,Water,C020,7,0,0.88,5633.88,162,On Time
+Bwari,South West,Water,C011,4,1,0.6,39552.06,208,Delayed
+Sokoto North,North Central,Roads,C003,6,1,0.71,30349.12,109,On Time
+Nsukka,South South,Electricity,C001,9,2,0.7,7426.3,368,Delayed
+Yenagoa,North Central,Electricity,C006,3,0,0.75,50173.64,3,On Time
+Abeokuta,South West,Electricity,C015,4,2,0.4,19278.41,204,Abandoned
+Yenagoa,South South,Education,C014,3,0,0.75,22761.5,231,On Time
+Abeokuta,South East,Health,C012,5,0,0.83,53945.38,250,Delayed
+Owerri,North West,Roads,C004,3,1,0.5,28970.17,147,On Time
+Lokoja,South East,Roads,C016,4,0,0.8,23943.86,166,Delayed
+Yenagoa,South South,Water,C002,7,3,0.5,19328.88,123,On Time
+Abeokuta,North West,Health,C009,6,1,0.71,85837.93,101,Delayed
+Eket,South East,Health,C017,6,0,0.86,59761.45,213,Delayed
+Bwari,South East,Electricity,C014,2,0,0.67,22945.87,189,Abandoned
+Bwari,South South,Education,C012,2,0,0.67,64622.81,118,On Time
+Sokoto North,South West,Water,C015,8,3,0.56,20891.0,161,Abandoned
+Bwari,North West,Education,C018,3,0,0.75,31630.34,298,On Time
+Lokoja,South East,Roads,C016,7,0,0.88,37866.05,184,On Time
+Jos North,South West,Health,C020,4,1,0.6,4559.61,181,On Time
+Nsukka,North West,Education,C018,6,0,0.86,41625.85,198,Delayed
+Bwari,South East,Electricity,C003,6,0,0.86,80819.18,228,Abandoned
+Nsukka,South East,Health,C004,2,0,0.67,34077.71,119,On Time
+Lokoja,South West,Water,C010,3,0,0.75,28428.01,21,On Time
+Ilorin,South East,Roads,C016,6,1,0.71,135983.77,192,On Time
+Abeokuta,South East,Education,C018,1,0,0.5,25846.4,145,On Time
+Lokoja,North East,Water,C020,0,0,0.0,13910.24,91,On Time
+Ilorin,North Central,Education,C009,3,0,0.75,52939.72,220,Delayed
+Owerri,South South,Roads,C009,8,0,0.89,106701.8,173,Delayed
+Bwari,South West,Roads,C010,7,0,0.88,25466.47,160,On Time
+Sokoto North,South West,Electricity,C016,4,0,0.8,28111.71,207,On Time
+Lokoja,South South,Water,C016,5,0,0.83,15450.54,170,On Time
+Eket,South South,Roads,C018,2,0,0.67,153140.36,66,Delayed
+Owerri,North West,Water,C007,9,0,0.9,24520.98,215,On Time
+Nsukka,South East,Electricity,C008,5,1,0.67,44617.27,181,Delayed
+Owerri,North West,Health,C016,1,0,0.5,93586.04,201,Delayed
+Owerri,South West,Water,C005,5,0,0.83,13800.63,216,On Time
+Abeokuta,North East,Health,C017,5,0,0.83,25768.73,141,On Time
+Sokoto North,North Central,Roads,C015,5,0,0.83,8965.84,240,On Time
+Jos North,South East,Electricity,C001,2,0,0.67,33447.97,122,On Time
+Lokoja,South West,Water,C005,9,1,0.8,11266.42,299,On Time
+Jos North,North West,Water,C011,4,0,0.8,44093.82,100,On Time
+Sokoto North,South West,Water,C003,8,0,0.89,5349.75,191,On Time
+Eket,South East,Electricity,C011,3,0,0.75,53686.72,26,On Time
+Abeokuta,North Central,Electricity,C020,6,0,0.86,77646.11,229,On Time
+Jos North,South West,Education,C010,5,1,0.67,21796.36,265,On Time
+Nsukka,South East,Health,C004,5,0,0.83,52212.14,89,On Time
+Jos North,North East,Water,C010,8,0,0.89,48141.95,233,Delayed
+Bwari,North West,Health,C002,7,0,0.88,69459.58,236,On Time
+Yenagoa,North West,Roads,C014,5,0,0.83,31746.98,207,On Time
+Lokoja,South South,Education,C014,5,0,0.83,28034.6,196,Delayed
+Sokoto North,North East,Education,C006,6,1,0.71,43103.4,228,Abandoned
+Jos North,South East,Electricity,C020,5,0,0.83,9550.9,204,On Time
+Nsukka,South South,Water,C005,3,1,0.5,22758.51,77,On Time
+Nsukka,South West,Water,C009,3,0,0.75,72398.04,266,Delayed
+Abeokuta,South West,Roads,C001,2,1,0.33,42125.43,177,Abandoned
+Abeokuta,South West,Roads,C018,5,0,0.83,95537.48,143,Delayed
+Lokoja,South East,Health,C012,3,1,0.5,64322.69,102,Delayed
+Sokoto North,South West,Roads,C014,3,1,0.5,38020.64,131,Delayed
+Yenagoa,North West,Water,C007,6,0,0.86,76167.74,240,On Time
+Owerri,North Central,Water,C008,5,0,0.83,48717.26,200,Delayed
+Owerri,North West,Electricity,C019,5,0,0.83,49424.2,176,On Time
+Yenagoa,North Central,Roads,C013,5,0,0.83,38772.67,157,On Time
+Yenagoa,South South,Health,C002,5,0,0.83,13402.16,221,Delayed
+Sokoto North,North West,Water,C008,5,2,0.5,17438.24,130,On Time
+Sokoto North,North East,Roads,C007,7,0,0.88,46982.71,208,On Time
+Sokoto North,South West,Roads,C005,7,1,0.75,70181.49,321,Delayed
+Jos North,North West,Health,C015,4,0,0.8,133588.04,134,Delayed
+Bwari,North West,Electricity,C005,6,0,0.86,20424.38,180,Delayed
+Jos North,North West,Roads,C014,4,0,0.8,57584.9,200,On Time
+Lokoja,North East,Education,C018,8,2,0.67,7379.0,211,On Time
+Eket,South South,Electricity,C009,9,0,0.9,28194.88,128,On Time
+Lokoja,South East,Roads,C010,2,0,0.67,48855.1,124,On Time
+Eket,South East,Health,C003,2,0,0.67,35818.82,284,On Time
+Lokoja,South West,Education,C013,4,0,0.8,20151.81,104,On Time
+Ilorin,North Central,Roads,C013,8,1,0.78,19768.89,138,On Time
+Bwari,South South,Roads,C004,3,0,0.75,41657.22,235,Delayed
+Abeokuta,South West,Roads,C009,5,1,0.67,16492.89,219,Abandoned
+Sokoto North,South West,Water,C012,3,0,0.75,207380.48,113,On Time
+Jos North,South East,Education,C001,8,0,0.89,42968.78,203,On Time
+Sokoto North,North West,Electricity,C020,4,0,0.8,27303.32,236,On Time
+Nsukka,South West,Health,C015,3,0,0.75,8903.22,217,On Time
+Yenagoa,North Central,Water,C005,1,0,0.5,62050.36,256,On Time
+Bwari,North West,Health,C016,7,1,0.75,28759.15,179,On Time
+Jos North,North East,Health,C018,8,1,0.78,44116.5,128,On Time
+Lokoja,South East,Water,C012,4,0,0.8,122148.5,246,Delayed
+Ilorin,South South,Water,C005,3,0,0.75,25550.18,95,On Time
+Owerri,South East,Health,C020,7,0,0.88,47349.41,241,On Time
+Owerri,North Central,Roads,C012,6,1,0.71,45798.18,97,On Time
+Nsukka,South East,Water,C008,3,0,0.75,23997.43,176,Abandoned
+Eket,South West,Health,C012,9,0,0.9,13946.93,249,On Time
+Ilorin,North Central,Roads,C013,4,0,0.8,74662.59,131,Delayed
+Yenagoa,North Central,Education,C015,5,1,0.67,32216.7,171,On Time
+Jos North,South West,Education,C020,10,1,0.82,43413.31,245,On Time
+Bwari,North West,Health,C008,8,1,0.78,28658.88,213,On Time
+Lokoja,North East,Electricity,C003,7,1,0.75,15780.34,268,On Time
+Ilorin,South South,Education,C007,4,1,0.6,49107.74,127,On Time
+Nsukka,North East,Roads,C020,7,2,0.62,59893.18,209,On Time
+Bwari,North East,Roads,C005,1,0,0.5,9802.66,246,Abandoned
+Ilorin,North East,Roads,C004,7,1,0.75,63567.34,195,On Time
+Bwari,North Central,Education,C012,4,2,0.4,40530.62,184,On Time
+Nsukka,North West,Electricity,C001,2,0,0.67,28671.35,135,Delayed
+Lokoja,North Central,Roads,C005,4,0,0.8,10058.83,152,On Time
+Owerri,North Central,Electricity,C003,5,0,0.83,24063.96,190,On Time
+Abeokuta,North West,Water,C017,4,0,0.8,49461.25,72,On Time
+Sokoto North,South East,Health,C017,3,0,0.75,18308.17,178,On Time
+Nsukka,North Central,Electricity,C017,9,1,0.8,48389.82,278,On Time
+Yenagoa,South West,Water,C001,7,0,0.88,3230.61,91,On Time
+Bwari,South East,Water,C014,6,0,0.86,39780.04,104,On Time
+Jos North,South West,Water,C015,6,0,0.86,21928.63,129,On Time
+Jos North,North West,Health,C020,4,1,0.6,22814.16,251,Delayed
+Lokoja,North East,Health,C009,2,1,0.33,44080.84,161,On Time
+Sokoto North,South South,Electricity,C011,3,0,0.75,85439.92,221,On Time
+Owerri,South South,Electricity,C010,6,1,0.71,20919.1,136,On Time
+Abeokuta,South South,Electricity,C014,2,0,0.67,22911.21,263,Delayed
+Jos North,South West,Health,C018,4,0,0.8,178937.05,193,Delayed
+Nsukka,South East,Water,C008,2,0,0.67,27079.76,197,On Time
+Owerri,South East,Roads,C013,4,1,0.6,39425.98,126,Delayed
+Owerri,North West,Health,C014,5,1,0.67,19852.51,225,On Time
+Eket,North West,Roads,C005,3,1,0.5,20021.71,224,Delayed
+Abeokuta,North Central,Health,C003,8,1,0.78,99951.26,239,On Time
+Jos North,North Central,Water,C012,3,1,0.5,15458.77,103,On Time
+Lokoja,North Central,Electricity,C019,2,0,0.67,23857.44,110,On Time
+Ilorin,North West,Electricity,C004,9,0,0.9,35150.77,0,On Time
+Owerri,South West,Roads,C014,7,0,0.88,17043.32,284,Delayed
+Bwari,South South,Roads,C010,4,0,0.8,77957.06,164,On Time
+Eket,South South,Health,C017,8,1,0.78,14206.16,165,On Time
+Nsukka,South West,Education,C016,3,0,0.75,10397.64,122,On Time
+Nsukka,North West,Health,C018,3,0,0.75,95724.65,216,On Time
+Eket,North West,Health,C019,6,0,0.86,41842.96,170,On Time
+Nsukka,South South,Water,C020,7,0,0.88,11422.91,165,On Time
+Sokoto North,North Central,Electricity,C020,4,0,0.8,15570.16,141,On Time
+Yenagoa,North East,Health,C009,6,0,0.86,24828.73,249,On Time
+Yenagoa,North West,Roads,C001,6,1,0.71,14833.3,161,On Time
+Lokoja,South South,Education,C013,7,0,0.88,21964.51,193,On Time
+Jos North,South West,Education,C001,3,0,0.75,111548.07,128,On Time
+Jos North,North East,Electricity,C013,6,0,0.86,31019.91,148,On Time
+Owerri,North West,Water,C006,7,1,0.75,86425.85,265,On Time
+Eket,South West,Roads,C011,6,1,0.71,28148.93,249,Delayed
+Sokoto North,North Central,Electricity,C002,9,1,0.8,30996.64,205,On Time
+Lokoja,South South,Education,C002,5,0,0.83,19871.34,201,Delayed
+Jos North,South East,Roads,C014,4,0,0.8,26826.71,107,On Time
+Abeokuta,South East,Electricity,C014,1,0,0.5,14986.23,200,On Time
+Yenagoa,South South,Education,C004,4,0,0.8,25493.83,149,On Time
+Eket,North Central,Water,C010,2,0,0.67,34843.84,155,On Time
+Sokoto North,South South,Water,C010,6,0,0.86,42143.01,175,On Time
+Bwari,South East,Education,C020,4,0,0.8,44816.84,208,Delayed
+Bwari,North East,Health,C010,3,0,0.75,53204.96,133,On Time
+Nsukka,North West,Education,C010,4,0,0.8,39508.55,108,On Time
+Eket,North Central,Health,C016,3,0,0.75,25205.28,189,Delayed
+Owerri,North East,Education,C013,7,1,0.75,16419.15,134,On Time
+Ilorin,South South,Education,C018,6,1,0.71,14328.46,233,On Time
+Eket,South East,Health,C002,6,2,0.57,27216.18,70,On Time
+Owerri,South East,Health,C003,3,1,0.5,38690.84,256,On Time
+Eket,South East,Electricity,C019,4,2,0.4,17002.81,139,On Time
+Owerri,North West,Water,C004,8,1,0.78,24114.8,233,Delayed
+Owerri,North West,Health,C006,2,0,0.67,86433.5,221,On Time
+Sokoto North,South West,Water,C012,3,0,0.75,27104.02,53,On Time
+Jos North,North Central,Water,C008,6,2,0.57,34921.9,163,On Time
+Owerri,South East,Electricity,C017,1,0,0.5,33406.47,352,Delayed
+Jos North,North West,Water,C011,7,1,0.75,29342.55,226,On Time
+Nsukka,North East,Roads,C003,3,0,0.75,17872.3,137,On Time
+Ilorin,South South,Health,C017,2,1,0.33,52762.03,296,On Time
+Nsukka,North West,Roads,C005,4,1,0.6,19450.4,197,Delayed
+Nsukka,North East,Health,C009,5,1,0.67,75123.93,188,Delayed
+Nsukka,South South,Education,C005,2,1,0.33,26282.83,167,On Time
+Jos North,South West,Education,C016,8,0,0.89,69984.35,185,On Time
+Abeokuta,South South,Electricity,C015,8,0,0.89,38537.72,118,On Time
+Sokoto North,North West,Electricity,C011,3,0,0.75,68832.48,200,On Time
+Lokoja,North Central,Water,C016,1,0,0.5,18223.06,185,On Time
+Abeokuta,North West,Roads,C019,4,0,0.8,52465.48,103,On Time
+Bwari,South South,Roads,C003,6,2,0.57,100774.7,214,Abandoned
+Yenagoa,South East,Water,C002,8,0,0.89,25484.59,170,Delayed
+Bwari,North West,Roads,C003,3,0,0.75,44693.21,184,On Time
+Jos North,South South,Electricity,C017,5,1,0.67,14771.02,78,Abandoned
+Owerri,South South,Water,C018,5,0,0.83,43830.81,187,On Time
+Bwari,South South,Water,C007,3,1,0.5,47189.71,136,On Time
+Eket,South East,Electricity,C017,5,0,0.83,71817.65,146,Delayed
+Lokoja,South East,Health,C004,5,0,0.83,131733.31,96,On Time
+Eket,South South,Health,C006,5,1,0.67,46711.98,214,Abandoned
+Bwari,South West,Education,C015,6,2,0.57,44933.46,28,Abandoned
+Abeokuta,South South,Electricity,C020,4,0,0.8,21912.64,230,On Time
+Lokoja,North West,Roads,C010,5,1,0.67,13398.76,148,On Time
+Owerri,North West,Water,C020,8,0,0.89,45192.85,246,Abandoned
+Bwari,North Central,Roads,C011,3,0,0.75,88259.37,213,Delayed
+Jos North,South West,Electricity,C013,3,0,0.75,23057.06,147,On Time
+Yenagoa,South West,Roads,C020,2,0,0.67,28834.19,191,On Time
+Lokoja,North Central,Roads,C019,2,0,0.67,36954.43,241,Delayed
+Lokoja,North West,Roads,C013,4,0,0.8,144397.68,215,Delayed
+Lokoja,South West,Electricity,C003,6,1,0.71,34349.28,116,Abandoned
+Yenagoa,South East,Electricity,C011,2,0,0.67,15188.47,286,Delayed
+Lokoja,North Central,Electricity,C014,3,0,0.75,96653.91,219,On Time
+Ilorin,North Central,Roads,C012,4,1,0.6,47372.87,296,On Time
+Yenagoa,North East,Education,C011,5,1,0.67,47082.45,159,Delayed
+Abeokuta,North East,Education,C005,6,0,0.86,22469.56,275,On Time
+Lokoja,North West,Health,C004,4,0,0.8,47083.44,30,On Time
+Ilorin,South West,Electricity,C017,5,0,0.83,86286.14,109,On Time
+Bwari,South South,Roads,C005,2,0,0.67,12455.3,200,On Time
+Sokoto North,North East,Water,C006,6,0,0.86,61288.48,115,On Time
+Lokoja,North East,Electricity,C015,0,0,0.0,9086.72,187,Delayed
+Bwari,North West,Water,C008,3,0,0.75,51851.3,187,On Time
+Abeokuta,North West,Electricity,C015,1,0,0.5,64771.78,183,On Time
+Nsukka,North East,Electricity,C010,6,0,0.86,38746.4,234,Delayed
+Abeokuta,North West,Education,C019,4,0,0.8,47741.13,69,On Time
+Abeokuta,North West,Water,C013,2,0,0.67,20348.63,124,On Time
+Ilorin,South East,Electricity,C006,8,0,0.89,30718.09,239,On Time
+Nsukka,North East,Electricity,C009,6,0,0.86,18601.55,136,On Time
+Bwari,North West,Water,C018,6,1,0.71,48998.53,191,On Time
+Jos North,North Central,Electricity,C010,6,0,0.86,12666.98,201,Delayed
+Jos North,North West,Education,C015,7,0,0.88,35751.25,184,On Time
+Ilorin,South East,Education,C003,7,1,0.75,26993.44,152,On Time
+Nsukka,North West,Water,C001,4,1,0.6,14968.12,253,On Time
+Owerri,South East,Health,C017,9,2,0.7,76318.44,104,Delayed
+Eket,South East,Education,C003,6,1,0.71,34856.44,170,On Time
+Eket,North Central,Education,C011,8,1,0.78,18135.39,317,Delayed
+Jos North,North East,Roads,C005,4,0,0.8,63636.66,166,On Time
+Bwari,South East,Roads,C005,2,0,0.67,66524.3,136,On Time
+Abeokuta,South South,Water,C001,6,2,0.57,12120.08,101,Delayed
+Jos North,North West,Health,C007,7,0,0.88,38489.23,146,Delayed
+Lokoja,South West,Electricity,C020,6,0,0.86,35128.99,279,Delayed
+Ilorin,North Central,Water,C010,2,1,0.33,20079.98,211,Delayed
+Nsukka,North Central,Roads,C002,4,0,0.8,33910.7,117,On Time
+Nsukka,South West,Water,C020,6,1,0.71,79598.07,153,On Time
+Abeokuta,North Central,Health,C016,7,0,0.88,32880.64,197,Abandoned
+Sokoto North,North Central,Electricity,C017,3,0,0.75,12245.92,148,Delayed
+Sokoto North,South West,Education,C005,6,0,0.86,39047.22,100,On Time
+Yenagoa,North Central,Water,C020,4,0,0.8,29807.97,160,Delayed
+Eket,South South,Education,C014,5,1,0.67,46502.26,151,Abandoned
+Lokoja,South South,Health,C012,7,0,0.88,99375.59,184,On Time
+Jos North,South South,Electricity,C017,6,1,0.71,46603.39,127,Delayed
+Ilorin,North Central,Electricity,C013,4,0,0.8,13665.18,72,Delayed
+Abeokuta,South West,Health,C013,4,1,0.6,48916.41,171,Delayed
+Eket,South West,Roads,C001,6,0,0.86,14536.73,209,Delayed
+Eket,North West,Health,C008,4,0,0.8,12412.01,259,Delayed
+Jos North,South West,Electricity,C011,7,0,0.88,65708.13,97,On Time
+Lokoja,North West,Health,C018,2,0,0.67,82043.05,113,On Time
+Eket,South West,Education,C015,2,0,0.67,21695.02,96,On Time
+Abeokuta,North East,Education,C003,3,1,0.5,32952.55,167,Delayed
+Abeokuta,North West,Health,C007,6,0,0.86,41416.0,279,On Time
+Bwari,North Central,Education,C011,4,0,0.8,43244.54,171,Delayed
+Yenagoa,South East,Electricity,C018,7,1,0.75,40902.45,190,On Time
+Abeokuta,North Central,Roads,C007,9,1,0.8,18916.63,65,On Time
+Yenagoa,North Central,Roads,C011,5,0,0.83,102549.45,160,On Time
+Yenagoa,North West,Health,C014,9,0,0.9,11596.33,174,Delayed
+Owerri,South East,Water,C011,8,1,0.78,64858.85,207,Abandoned
+Lokoja,South West,Water,C016,6,1,0.71,67061.01,147,On Time
+Eket,North West,Electricity,C003,5,0,0.83,27221.43,103,On Time
+Owerri,South East,Health,C020,7,1,0.75,72369.41,191,Delayed
+Lokoja,North West,Electricity,C011,8,1,0.78,41172.76,66,Delayed
+Jos North,North West,Health,C010,5,1,0.67,72339.66,270,Delayed
+Yenagoa,South South,Water,C014,7,0,0.88,30301.08,130,On Time
+Lokoja,North West,Water,C015,2,0,0.67,32433.14,147,On Time
+Bwari,South South,Roads,C014,6,0,0.86,18093.53,178,On Time
+Yenagoa,North Central,Health,C013,4,0,0.8,20074.61,143,Abandoned
+Eket,South West,Electricity,C006,3,0,0.75,31332.4,145,On Time
+Bwari,South South,Education,C015,3,1,0.5,9058.56,227,On Time
+Bwari,North Central,Education,C008,6,2,0.57,101390.22,228,Abandoned
+Eket,South East,Roads,C019,7,0,0.88,61040.64,178,On Time
+Bwari,North East,Electricity,C015,4,0,0.8,86403.71,82,On Time
+Eket,South East,Roads,C003,5,1,0.67,64935.28,165,On Time
+Sokoto North,South South,Education,C012,5,0,0.83,14404.45,243,On Time
+Owerri,South West,Roads,C009,4,0,0.8,25233.11,161,On Time
+Nsukka,North Central,Health,C006,5,2,0.5,35010.69,183,On Time
+Abeokuta,South East,Electricity,C018,7,1,0.75,37222.96,205,On Time
+Jos North,North West,Roads,C015,8,2,0.67,29574.45,142,Delayed
+Nsukka,North West,Electricity,C016,5,0,0.83,73863.67,133,On Time
+Nsukka,North East,Health,C003,4,0,0.8,24086.31,117,On Time
+Abeokuta,South West,Education,C015,2,0,0.67,108657.69,139,On Time
